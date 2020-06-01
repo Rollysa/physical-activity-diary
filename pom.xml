@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+
+	<groupId>com.barboraroland</groupId>
+	<artifactId>physical-activity-diary</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+    <modules>
+        <module>backend</module>
+        <module>persistence</module>
+    </modules>
+    <packaging>pom</packaging>
+
+	<description>Physical activity diary is a full-stack application enables to record a personal physical activity
+		and its analysis based on a history of that performed physical activity. </description>
+
+	<parent>
+		<groupId>org.springframework.boot</groupId>
+		<artifactId>spring-boot-starter-parent</artifactId>
+		<version>2.1.1.RELEASE</version>
+		<relativePath/> <!-- lookup parent from repository -->
+	</parent>
+
+	<properties>
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+		<java.version>1.8</java.version>
+		<version.postgresql>42.2.5</version.postgresql>
+		<version.gson>2.8.5</version.gson>
+		<version.jjwt>0.9.1</version.jjwt>
+		<version.log4j>1.2.17</version.log4j>
+        <version.validation-api>2.0.1.Final</version.validation-api>
+		<version.commons-lang3>3.8.1</version.commons-lang3>
+		<version.spring-boot-starter-mail>2.1.5.RELEASE</version.spring-boot-starter-mail>
+	</properties>
+
+	<dependencyManagement>
+		<dependencies>
+			<dependency>
+				<groupId>org.postgresql</groupId>
+				<artifactId>postgresql</artifactId>
+				<scope>runtime</scope>
+				<version>${version.postgresql}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>com.google.code.gson</groupId>
+				<artifactId>gson</artifactId>
+				<version>${version.gson}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>io.jsonwebtoken</groupId>
+				<artifactId>jjwt</artifactId>
+				<version>${version.jjwt}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>log4j</groupId>
+				<artifactId>log4j</artifactId>
+				<version>${version.log4j}</version>
+			</dependency>
+
+            <dependency>
+                <groupId>javax.validation</groupId>
+                <artifactId>validation-api</artifactId>
+                <version>${version.validation-api}</version>
+            </dependency>
+
+            <dependency>
+				<groupId>org.apache.commons</groupId>
+				<artifactId>commons-lang3</artifactId>
+				<version>${version.commons-lang3}</version>
+			</dependency>
+
+			<dependency>
+				<groupId>org.springframework.boot</groupId>
+				<artifactId>spring-boot-starter-mail</artifactId>
+				<version>${version.spring-boot-starter-mail}</version>
+			</dependency>
+
+        </dependencies>
+	</dependencyManagement>
+
+</project>

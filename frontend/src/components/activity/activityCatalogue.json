@@ -1,0 +1,204 @@
+{
+  "activityData": [
+    {
+      "activityType": "Hike",
+      "activitySubtype": [
+        "Cross country hiking",
+        "General hike",
+        "Hills",
+        "Rock climbing",
+        "Trekking"
+      ]
+    },
+    {
+      "activityType": "Run",
+      "activitySubtype": [
+        "Cross country run",
+        "Dog run",
+        "General run",
+        "Group Run",
+        "Intervals",
+        "Jogging",
+        "Long run",
+        "Run race",
+        "Sprints",
+        "Stairs",
+        "Track run",
+        "Trail run"
+      ]
+    },
+    {
+      "activityType": "Walk",
+      "activitySubtype": [
+        "Brisk walk",
+        "Dog walk",
+        "General walk",
+        "Intervals",
+        "Long walk",
+        "Nordic walking",
+        "Power walk",
+        "Stairs",
+        "Sightseeing",
+        "Treadmill",
+        "Walk Race"
+      ]
+    },
+    {
+      "activityType": "Bike",
+      "activitySubtype": [
+        "BMX",
+        "Bicycle touring",
+        "Mountain biking",
+        "Road cycling",
+        "Track cycling"
+      ]
+    },
+    {
+      "activityType": "Swim",
+      "activitySubtype": [
+        "Backstroke",
+        "Breaststroke",
+        "Butterfly",
+        "Drills",
+        "Freestyle",
+        "Front crawl",
+        "Individual medley",
+        "Medley relay",
+        "Sidestroke",
+        "Synchronized"
+      ]
+    },
+    {
+      "activityType": "Gym/Weight workout",
+      "activitySubtype": [
+        "Crunch",
+        "Deadlift",
+        "Dips",
+        "High stepping",
+        "Kettlebell",
+        "Leg curls",
+        "Leg Press",
+        "Plank",
+        "Pull-ups",
+        "Push-ups",
+        "Squats",
+        "Superman",
+        "Wall sit"
+      ]
+    },
+    {
+      "activityType": "Ball game",
+      "activitySubtype": [
+        "Badminton",
+        "Baseball",
+        "Basketball",
+        "Bowling",
+        "Cricket",
+        "Floorball",
+        "Football",
+        "Golf",
+        "Handball",
+        "Hockey",
+        "Lacrosse",
+        "Paintball",
+        "Pétanque"
+      ]
+    },
+    {
+      "activityType": "Dance",
+      "activitySubtype": [
+        "Ballet",
+        "Ballroom dancing",
+        "Disco",
+        "Hip-hop",
+        "Latin dance",
+        "Salsa",
+        "Street dance",
+        "Swing dance"
+      ]
+    },
+    {
+      "activityType": "Fitness activity",
+      "activitySubtype": [
+        "Abs",
+        "Aerobic",
+        "Bodypump",
+        "Bodystep",
+        "Bootcamp",
+        "Circuit training",
+        "CrossFit",
+        "Dance fitness",
+        "HIIT",
+        "Pilates",
+        "Rope skipping",
+        "Rowing training",
+        "Spinning",
+        "Tabata",
+        "Trampoline",
+        "TRX",
+        "Yoga",
+        "Zumba"
+      ]
+    },
+    {
+      "activityType": "Martial art",
+      "activitySubtype": [
+        "Aikido",
+        "Archery",
+        "Brazilian jiu-jitsu",
+        "Boxing",
+        "Capoeira",
+        "Fencing",
+        "Judo",
+        "Jujitsu",
+        "Karate",
+        "Kickboxing",
+        "Kung Fu",
+        "Mixed martial arts",
+        "Muay Thai",
+        "Tae kwon do",
+        "Taichi"
+      ]
+    },
+    {
+      "activityType": "Occupational",
+      "activitySubtype": ["Gardening", "Farming", "Fishing", "Horse riding"]
+    },
+    {
+      "activityType": "Water activity",
+      "activitySubtype": [
+        "Aqua jogging",
+        "Canoeing",
+        "Diving",
+        "Kayaking",
+        "Kitesurfing",
+        "Paddleboarding",
+        "Parasailing",
+        "Rafting",
+        "Rowing",
+        "Sailing",
+        "Scuba diving",
+        "Snorkeling",
+        "Surfing",
+        "Wakeboarding",
+        "Water aerobics",
+        "Water polo",
+        "Water running",
+        "Water skiing",
+        "Windsurfing",
+        "Yachting"
+      ]
+    },
+    {
+      "activityType": "Winter activity",
+      "activitySubtype": [
+        "Bobsledding",
+        "Ice Hockey",
+        "Ice Skating",
+        "Mountaineering",
+        "Skiing",
+        "Snowboarding"
+      ]
+    }
+  ]
+}
