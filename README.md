@@ -6,4 +6,4 @@ This full-stack application enables to record a personal physical activity and i
 **Database:** PostgreSQL 11 \
 **Front-end:** JavaScript (ES6), React/Redux, React-Router, Redux-Thunk, Axios, Bootstrap 4, Chart.js
 
-*Note:* The first try with a programming front-end on that application. 
+*Note:* The first try with programming a react/redux-based front-end application. 
