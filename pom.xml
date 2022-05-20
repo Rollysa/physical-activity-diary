@@ -27,7 +27,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 		<java.version>1.8</java.version>
 		<version.postgresql>42.2.5</version.postgresql>
-		<version.gson>2.8.5</version.gson>
+		<version.gson>2.8.9</version.gson>
 		<version.jjwt>0.9.1</version.jjwt>
 		<version.log4j>1.2.17</version.log4j>
         <version.validation-api>2.0.1.Final</version.validation-api>
