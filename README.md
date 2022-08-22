@@ -5,5 +5,3 @@ This full-stack application enables to record a personal physical activity and i
 **Back-end:** Java 8, Spring Boot 2, Spring MVC, Spring Security, Spring Data JPA, Hibernate, RESTful Web Services, Log4j, Maven  
 **Database:** PostgreSQL 11 \
 **Front-end:** JavaScript (ES6), React/Redux, React-Router, Redux-Thunk, Axios, Bootstrap 4, Chart.js
-
-*Note:* The first try with programming a react/redux-based front-end application. 
